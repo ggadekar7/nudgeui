@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+NOTE: Please run ui on port 3000
+
+UI URL: http://localhost:3000/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
